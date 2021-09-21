@@ -1,0 +1,13 @@
+# IDE
+.idea
+
+# Build
+/target
+
+# Don't lock dependencies
+Cargo.lock
+
+# TEMP - Ignore sample data during development
+*.yaml
+*.csv
+*.db
